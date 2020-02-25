@@ -7,8 +7,7 @@ Vue CLI 3 多页应用项目
 
 ## 初始化
 ```bash
-git clone https://github.com/zydemail/vue-mpa.git
-cd vue-mpa
+git clone https://github.com/Coimw/vue-cli3-Multipage-application.git
 npm install
 ```
 
