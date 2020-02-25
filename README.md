@@ -3,7 +3,7 @@
 
 
 ## 说明
-Vue CLI 3 多页应用项目**Git地址: https://github.com/zydemail/vue-mpa.git。
+Vue CLI 3 多页应用项目
 
 ## 初始化
 ```bash
